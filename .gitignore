@@ -1,4 +1,4 @@
 *.exe
-*gitignore
-*gitattributes
-/*vscode
+.vscode/
+.gitattributes
+.gitignore

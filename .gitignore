@@ -1,4 +1,6 @@
 *.exe
+*.tmp
+*.docx
 .vscode/
 .gitattributes
 !/.gitignore
